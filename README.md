@@ -43,8 +43,3 @@ npm run prod     # Production mode locally
 npm run build    # Production build
 npm run preview  # Preview production build
 ```
-
-## Environment Variables
-Create `.env.development` or `.env.production` with:
-```
-VITE_API_URL=http://localhost:9000
